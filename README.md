@@ -1,7 +1,3 @@
-Here’s a **super concise English description** for GitHub:
-
----
-
 # 📅 **Daily Routine (Bangla)**
 
 A simple and effective daily routine focusing on:
@@ -12,7 +8,3 @@ A simple and effective daily routine focusing on:
 
 ✅ Minimal design
 ✅ A4 poster format
-
----
-
-Would you like me to create a **ready README.md file**? 😊
